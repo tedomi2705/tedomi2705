@@ -1,5 +1,4 @@
 ## Hi there 👋 
-### I'm Le Hong Duc, a second year computer science student from Vietnam
 
 ---
 
